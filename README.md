@@ -35,7 +35,7 @@
 </h3>
   
  <p align="center">
-   <a href="https://www.instagram.com/kimmily_95/><img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/kimmily_95/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+   <a href="https://www.instagram.com/kimmily_95/"><img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/kimmily_95/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a target="_blank" href="https://github.com/B1ueC1oud/B1ueC1oud/" ><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb1uec1oud%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 </p>
 
