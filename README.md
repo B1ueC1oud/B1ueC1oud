@@ -20,7 +20,8 @@
 
 <h2 align="left">  📊 Status </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1ueC1oud&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B1ueC1oud&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default)
 [![Kimmily's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ueC1oud&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
