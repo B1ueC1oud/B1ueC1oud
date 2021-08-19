@@ -61,11 +61,11 @@
   <br>
  :smile: Contact Me! :smile: 
 </h3>
-<a target="_blank" href="https://github.com/B1ueC1oud/B1ueC1oud/" ><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb1uec1oud%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/B1ueC1oud/B1ueC1oud/" target="_blank" ><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fb1uec1oud%2Fhit-counter&icon=github.svg&icon_color=%23E1DEDE&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
 <h3 align="left">
-   <a href="mailme:th951113@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="www.linkedin.com/in/TaehoonKimmily"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&&locoColor=white"</a>&nbsp; 
-  <a href="https://viglelab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T-Blog-brown?&style=flat-square&logo=https://www.tistory.com/&logoColor=white" /></a>&nbsp;
+  <a href="mailto:th951113@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://linkedin.com/in/TaehoonKimmily"  target="_blank"><img src="http://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&&locoColor=white" /></a>&nbsp; 
+  <a target="_blank" href="https://viglelab.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/T-Blog-brown?&style=flat-square&logo=https://www.tistory.com/&logoColor=white" /></a>&nbsp;
   
 </h3>
   
