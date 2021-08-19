@@ -17,7 +17,7 @@
   <li>Domain Adaptation Detection</li>
 <br>
 
-<h2 align="left"> 💻 Main Language </h2> 
+<h3 align="left"> 💻 Main Language </h3> 
 <h3 align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -25,7 +25,7 @@
 </h3 >
 
 
-<h2 align="left"> :books: Library </h2>
+<h3 align="left"> :books: Library </h3>
 <h3 align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=PyTorch Lightning&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 <br>
 
-<h2 align="left">  📊 Status </h2>
+<h3 align="left">  📊 Status </h3>
 
 [![Kimmily's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ueC1oud&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 <br>
