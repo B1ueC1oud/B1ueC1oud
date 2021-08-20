@@ -5,7 +5,12 @@
 <h3 align="left">
   <br> ✋ Introduce ✋
 </h3>
-
+<p>
+Hi there, Thank You for visiting my GitHub page!
+My name is Taehoon Kim from South Korea 🇰🇷.
+I'm interested in Computer Vision & Pattern Recognition. 
+If you want to contact me, Please leave me a message.
+</p>
 
 <h3 align="left">
   <br>
