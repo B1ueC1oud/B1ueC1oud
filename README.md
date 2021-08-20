@@ -6,10 +6,10 @@
   <br> ✋ Introduce ✋
 </h3>
 <p>
-Hi there, Thank You for visiting my GitHub page!
-My name is Taehoon Kim from South Korea 🇰🇷.
-I'm interested in Computer Vision & Pattern Recognition. 
-If you want to contact me, Please leave me a message.
+Hi there, Thank you for visiting my GitHub page! <br>
+My name is Taehoon Kim from South Korea 🇰🇷. <br>
+I'm interested in <b>Computer Vision & Pattern Recognition</b>. <br>
+If you want to contact me, Please leave me a message. <br>
 </p>
 
 <h3 align="left">
