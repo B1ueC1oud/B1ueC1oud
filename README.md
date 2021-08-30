@@ -55,7 +55,7 @@ If you want to contact me, Please leave me a message. <br>
 
  <p align="left">
    <a href="https://www.instagram.com/kimmily_95/"><img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/kimmily_95/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp
-   <a href=""><img src="https://img.shields.io/badge/Curriculum Vitae(Kr)-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
+   <a href="https://polar-nut-250.notion.site/Taehoon-Kim-7cf919c78845472a91a3c157ec3bfc6e"><img src="https://img.shields.io/badge/Curriculum Vitae(Kr)-000000?style=flat&logo=Notion&logoColor=white"/></a>&nbsp
    <a href="https://sites.google.com/ajou.ac.kr/bluecloud/%ED%99%88"><img src="https://img.shields.io/badge/Profile Site(En)-246FDB?style=flat&logo=Google&logoColor=white"/></a>&nbsp 
   <a href="https://scholar.google.com/citations?user=RrKoTX4AAAAJ"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white"/></a>&nbsp;
 </p>
