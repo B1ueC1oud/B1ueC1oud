@@ -41,7 +41,7 @@ If you want to contact me, Please leave me a message. <br>
 
 <h3 align="left">  📊 Status </h3>
 
-[![Kimmily's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ueC1oud&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Kimmily's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ueC1oud&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B1ueC1oud&theme=nord_dark&count_private=true&include_all_commits=true)
