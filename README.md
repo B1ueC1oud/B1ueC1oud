@@ -45,6 +45,7 @@ If you want to contact me, Please leave me a message. <br>
 <br>
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B1ueC1oud&theme=nord_dark&count_private=true&include_all_commits=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1ueC1oud&layout=compact&theme=react&count_private=true&include_all_commits=true)
 
 <h3 align="left">
