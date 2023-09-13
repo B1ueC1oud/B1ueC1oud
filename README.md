@@ -44,7 +44,7 @@ If you want to contact me, Please leave me a message. <br>
 [![Kimmily's GitHub stats](https://github-readme-stats.vercel.app/api?username=B1ueC1oud&show_icons=true&theme=react&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B1ueC1oud&theme=nord_dark&count_private=true&include_all_commits=true)
+![Avg Commit Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B1ueC1oud&theme=nord_dark&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1ueC1oud&layout=donut&theme=react&count_private=true&include_all_commits=true)
 
 <h3 align="left">
