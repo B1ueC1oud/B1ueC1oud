@@ -46,7 +46,7 @@ If you want to contact me, Please leave me a message. <br>
 <br>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=B1ueC1oud&theme=nord_dark&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1ueC1oud&theme=react&layout=react&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1ueC1oud&layout=compact&theme=react&count_private=true&include_all_commits=true)
 
 <h3 align="left">
   <br>
