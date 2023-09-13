@@ -19,7 +19,7 @@ If you want to contact me, Please leave me a message. <br>
 </h3>
   <li>Self-Supervised Learning</li>
   <li>Video Recognition</li>
-  <li>Domain Adaptation Detection</li>
+  <li>Domain Adaptation Object Detection</li>
 <br>
 
 <h3 align="left"> 💻 Main Language </h3> 
