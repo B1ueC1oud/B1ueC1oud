@@ -42,7 +42,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-b1uec1oud.vercel.app/api?username=B1ueC1oud&show_icons=true&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&icon_color=0BD3FB&bg_color=141414" alt="GitHub Stats" width="48%" />
+  <!-- 1. 나만의 Vercel 통계 서버 (다크 테마 & 비공개 커밋 합산 적용) -->
+  <img src="https://github-readme-stats-b1uec1oud.vercel.app/api?username=B1ueC1oud&show_icons=true&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&icon_color=0BD3FB&bg_color=141414&count_private=true" alt="GitHub Stats" width="48%" />
   
   <img src="https://github-readme-stats-b1uec1oud.vercel.app/api/top-langs/?username=B1ueC1oud&layout=compact&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&bg_color=141414" alt="Top Langs" width="48%" />
 </div>
@@ -50,5 +51,6 @@
 <br>
 
 <div align="center">
+  <!-- 2. 잔디 그래프 (기존 유지) -->
   <img src="https://ghchart.rshah.org/0BD3FB/B1ueC1oud" alt="Contribution Graph" width="80%" />
 </div>
