@@ -19,8 +19,8 @@
 ### 🔬 Research Interests
 - **Test-Time Adaptation (TTA) & Continual TTA**
 - **Vision-Language Model (VLM) Adaptation** (e.g., CLIP, DINOv2)
-- **Zero-Order Optimization** & Memory-Efficient Training
-- **Self-Supervised Learning & Domain Adaptation**
+- **Parameter/Time-Efficient Training & Knowledge Distillation (KD)**
+- **Camera/Multi-Sensor Unsupervised Domain Adaptation**
 
 ### 🚀 Latest News
 - **[Dec 2026]** Attending and presenting at **NeurIPS 2026** in Sydney! 🇦🇺
