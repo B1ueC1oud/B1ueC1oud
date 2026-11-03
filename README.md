@@ -42,9 +42,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats-kwqt7xsve-b1uec1oud.vercel.app/api?username=B1ueC1oud&show_icons=true&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&icon_color=0BD3FB&bg_color=141414" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-b1uec1oud.vercel.app/api?username=B1ueC1oud&show_icons=true&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&icon_color=0BD3FB&bg_color=141414" alt="GitHub Stats" width="48%" />
   
-  <img src="https://github-readme-stats-kwqt7xsve-b1uec1oud.vercel.app/api/top-langs/?username=B1ueC1oud&layout=compact&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&bg_color=141414" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-b1uec1oud.vercel.app/api/top-langs/?username=B1ueC1oud&layout=compact&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&bg_color=141414" alt="Top Langs" width="48%" />
 </div>
 
 <br>
