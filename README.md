@@ -10,8 +10,8 @@
   <a href="mailto:th951113@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=RrKoTX4AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
   <a href="https://linkedin.com/in/TaehoonKimmily"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://polar-nut-250.notion.site/Taehoon-Kim-7cf919c78845472a91a3c157ec3bfc6e"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <a href="https://viglelab.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" /></a>
+  <!-- <a href="https://polar-nut-250.notion.site/Taehoon-Kim-7cf919c78845472a91a3c157ec3bfc6e"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
+  <a href="https://viglelab.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" /></a> -->
 </div>
 
 <br><br>
@@ -42,12 +42,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=B1ueC1oud&show_icons=true&theme=transparent&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&icon_color=0BD3FB&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1ueC1oud&layout=compact&theme=transparent&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&cache_seconds=86400" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats-kwqt7xsve-b1uec1oud.vercel.app/api?username=B1ueC1oud&show_icons=true&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&icon_color=0BD3FB&bg_color=141414" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-stats-kwqt7xsve-b1uec1oud.vercel.app/api/top-langs/?username=B1ueC1oud&layout=compact&hide_border=true&title_color=0BD3FB&text_color=a6a6a6&bg_color=141414" alt="Top Langs" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FB1ueC1oud&icon=github.svg&icon_color=%23FFFFFF&count_bg=%230BD3FB&title_bg=%23141414&icon=&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true" />
+  <img src="https://ghchart.rshah.org/0BD3FB/B1ueC1oud" alt="Contribution Graph" width="80%" />
 </div>
